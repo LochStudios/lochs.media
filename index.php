@@ -203,16 +203,24 @@
 				</div>
 				<div class="columns">
 					<div class="column is-half">
-						<div class="box is-flex is-flex-direction-column" style="height: 100%;">
-							<h4 class="title is-4">Address</h4>
+						<div class="box is-flex is-flex-direction-column" style="height: 100%; position: relative;">
+							<span class="tag is-primary is-medium" style="position: absolute; top: 0.5rem; right: 0.5rem;"><i class="fas fa-building mr-1"></i> Monday-Friday: 08:30-17:30</span>
+							<h4 class="title is-4"><span class="icon"><i class="fas fa-map-marker-alt"></i></span> Address</h4>
 							<div class="content">
-								<p><strong>Mail Contact</strong>: PO Box 219, South Grafton, New South Wales, 2460, Australia.</p>
-								<p><strong>Head Office</strong>: Level 5, 115 Pitt Street, Sydney, NSW, 2000, Australia.</p>
+								<div class="mb-4">
+									<p class="has-text-weight-semibold"><span class="icon is-small"><i class="fas fa-envelope"></i></span> <strong>Mail Contact</strong></p>
+									<p class="ml-4">PO Box 219, South Grafton<br>New South Wales, 2460<br>Australia</p>
+								</div>
+								<div class="mb-4">
+									<p class="has-text-weight-semibold"><span class="icon is-small"><i class="fas fa-building"></i></span> <strong>Head Office</strong></p>
+									<p class="ml-4">Level 5, 115 Pitt Street<br>Sydney, NSW, 2000<br>Australia</p>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div class="column is-half">
-						<div class="box is-flex is-flex-direction-column" style="height: 100%;">
+						<div class="box is-flex is-flex-direction-column" style="height: 100%; position: relative;">
+							<span class="tag is-success is-medium" style="position: absolute; top: 0.5rem; right: 0.5rem;"><i class="fas fa-phone mr-1"></i> Anytime Service</span>
 							<h4 class="title is-4">Phone & Email</h4>
 							<div class="content">
 								<p><strong>Phone (Australia)</strong>: <a href="tel:+61256323092">+61 (2) 5632-3092</a></p>
