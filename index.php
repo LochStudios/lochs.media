@@ -197,46 +197,39 @@
 		<!-- Contact Section -->
 		<section id="contact" class="section">
 			<div class="container">
-				<div class="has-text-centered mb-6">
-					<h3 class="title is-3">Contact Us</h3>
-					<p class="subtitle is-5">You can contact us with the following details:</p>
-				</div>
-				<div class="columns">
-					<div class="column is-half">
-						<div class="box is-flex is-flex-direction-column" style="height: 100%; position: relative;">
-							<span class="tag is-primary is-medium" style="position: absolute; top: 0.5rem; right: 0.5rem;"><i class="fas fa-building mr-1"></i> Monday-Friday: 08:30-17:30</span>
-							<h4 class="title is-4"><span class="icon"><i class="fas fa-map-marker-alt"></i></span> Address</h4>
+				<div class="columns is-centered">
+					<div class="column is-four-fifths">
+						<div class="box" style="position: relative;">
+							<h3 class="title is-3 has-text-centered mb-3">
+								<span class="icon"><i class="fas fa-address-book"></i></span> Contact Us
+							</h3>
+							<p class="subtitle is-5 has-text-centered mb-5">You can contact us with the following details:</p>
 							<div class="content">
-								<div class="mb-4">
-									<p class="has-text-weight-semibold"><span class="icon is-small"><i class="fas fa-envelope"></i></span> <strong>Mail Contact</strong></p>
-									<p class="ml-4">PO Box 219, South Grafton<br>New South Wales, 2460<br>Australia</p>
-								</div>
-								<div class="mb-4">
-									<p class="has-text-weight-semibold"><span class="icon is-small"><i class="fas fa-building"></i></span> <strong>Head Office</strong></p>
-									<p class="ml-4">Level 5, 115 Pitt Street<br>Sydney, NSW, 2000<br>Australia</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="column is-half">
-						<div class="box is-flex is-flex-direction-column" style="height: 100%; position: relative;">
-							<span class="tag is-success is-medium" style="position: absolute; top: 0.5rem; right: 0.5rem;"><i class="fas fa-phone mr-1"></i> Anytime Service</span>
-							<h4 class="title is-4">Phone & Email</h4>
-							<div class="content">
-								<div class="box has-background-dark has-text-white mb-4">
-									<h5 class="title is-6 has-text-white mb-3"><span class="icon"><i class="fas fa-phone"></i></span> Anytime Service</h5>
-									<p><strong>Phone (Australia)</strong>: <a href="tel:+61256323092" class="has-text-white">+61 (2) 5632-3092</a></p>
-									<p><strong>Phone (United States)</strong>: <a href="tel:+13158796488" class="has-text-white">+1 (315) 879-6488</a></p>
-									<p><strong>Phone (New Zealand)</strong>: <a href="tel:+6498708886" class="has-text-white">+64 (9) 870-8886</a></p>
-									<p><strong>Phone (United Kingdom)</strong>: <a href="tel:+442080899548" class="has-text-white">+44 2080 899 548</a></p>
-									<p><strong>Direct Line (Australia)</strong>: <a href="tel:+61256546400" class="has-text-white">+61 (2) 5654-6400</a></p>
-								</div>
-								<div class="box has-background-grey-dark has-text-white">
-									<h5 class="title is-6 has-text-white mb-3"><span class="icon"><i class="fas fa-building"></i></span> Office Hours (Monday-Friday: 08:30-17:30)</h5>
-									<p><strong>EMAIL</strong>: <a href="mailto:media@lochstudios.com" class="has-text-white">media@lochstudios.com</a></p>
-									<p><strong>FAX (Australia)</strong>: <a href="fax:+61256323095" class="has-text-white">+61 (2) 5632-3095</a></p>
-									<p><strong>FAX (United States)</strong>: <a href="fax:+13159096136" class="has-text-white">+1 (315) 909-6136</a></p>
-									<p><strong>TEXT MSG/WhatsApp</strong>: <a href="https://wa.me/61480001064" class="has-text-white">+614-8000-1064</a></p>
+								<div class="columns">
+									<div class="column is-half">
+										<div class="box has-background-grey-dark has-text-white is-flex is-flex-direction-column" style="position: relative; height: 100%;">
+											<span class="tag is-primary is-medium" style="position: absolute; top: 0.5rem; right: 0.5rem;"><i class="fas fa-building mr-1"></i> Mon-Fri: 08:30-17:30</span>
+											<h5 class="title is-6 has-text-white mb-3"><span class="icon"><i class="fas fa-map-marker-alt"></i></span> Address & Office Services</h5>
+											<p class="mb-3"><strong>Mail Contact:</strong> PO Box 219, South Grafton, NSW, 2460, Australia</p>
+											<p class="mb-3"><strong>Head Office:</strong> Level 5, 115 Pitt Street, Sydney, NSW, 2000, Australia</p>
+											<hr class="has-background-grey">
+											<p><strong>EMAIL:</strong> <a href="mailto:media@lochstudios.com" class="has-text-white">media@lochstudios.com</a></p>
+											<p><strong>FAX (Australia):</strong> <a href="fax:+61256323095" class="has-text-white">+61 (2) 5632-3095</a></p>
+											<p><strong>FAX (United States):</strong> <a href="fax:+13159096136" class="has-text-white">+1 (315) 909-6136</a></p>
+											<p><strong>TEXT MSG/WhatsApp:</strong> <a href="https://wa.me/61480001064" class="has-text-white">+614-8000-1064</a></p>
+										</div>
+									</div>
+									<div class="column is-half">
+										<div class="box has-background-dark has-text-white is-flex is-flex-direction-column" style="position: relative; height: 100%;">
+											<span class="tag is-success is-medium" style="position: absolute; top: 0.5rem; right: 0.5rem;"><i class="fas fa-phone mr-1"></i> Anytime Service</span>
+											<h5 class="title is-6 has-text-white mb-3"><span class="icon"><i class="fas fa-phone"></i></span> Phone Support (24/7)</h5>
+											<p><strong>Phone (Australia):</strong> <a href="tel:+61256323092" class="has-text-white">+61 (2) 5632-3092</a></p>
+											<p><strong>Phone (United States):</strong> <a href="tel:+13158796488" class="has-text-white">+1 (315) 879-6488</a></p>
+											<p><strong>Phone (New Zealand):</strong> <a href="tel:+6498708886" class="has-text-white">+64 (9) 870-8886</a></p>
+											<p><strong>Phone (United Kingdom):</strong> <a href="tel:+442080899548" class="has-text-white">+44 2080 899 548</a></p>
+											<p><strong>Direct Line (Australia):</strong> <a href="tel:+61256546400" class="has-text-white">+61 (2) 5654-6400</a></p>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
