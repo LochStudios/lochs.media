@@ -81,11 +81,11 @@
 		</section>
 
 		<!-- Services Section -->
-		<section id="services" class="section has-background-light">
+		<section id="services" class="section has-background-primary">
 			<div class="container">
 				<div class="has-text-centered mb-6">
-					<h3 class="title is-3">WHAT ARE OUR SERVICES?</h3>
-					<p class="subtitle is-5">From photography and videography to weddings and birthdays! We do the following:</p>
+					<h3 class="title is-3 has-text-white">WHAT ARE OUR SERVICES?</h3>
+					<p class="subtitle is-5 has-text-white">From photography and videography to weddings and birthdays! We do the following:</p>
 				</div>
 				<div class="columns is-multiline">
 					<div class="column is-half">
