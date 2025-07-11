@@ -194,7 +194,6 @@
 				</div>
 			</div>
 		</section>
-
 		<!-- Contact Section -->
 		<section id="contact" class="section">
 			<div class="container">
@@ -202,10 +201,9 @@
 					<h3 class="title is-3">Contact Us</h3>
 					<p class="subtitle is-5">You can contact us with the following details:</p>
 				</div>
-				
 				<div class="columns">
 					<div class="column is-half">
-						<div class="box">
+						<div class="box is-flex is-flex-direction-column" style="height: 100%;">
 							<h4 class="title is-4">Address</h4>
 							<div class="content">
 								<p><strong>Mail Contact</strong>: PO Box 219, South Grafton, New South Wales, 2460, Australia.</p>
@@ -214,20 +212,22 @@
 						</div>
 					</div>
 					<div class="column is-half">
-						<div class="box">
+						<div class="box is-flex is-flex-direction-column" style="height: 100%;">
 							<h4 class="title is-4">Phone & Email</h4>
 							<div class="content">
-								<p><strong>Phone</strong>: <a href="tel:+61256323092">(02) 5632-3092</a></p>
-								<p>Use EXT Number: <strong>6000</strong></p>
-								<p><strong>Switch Board (International)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a></p>
-								<p>Direct Line: <strong><a href="tel:+61256546400">(02) 5654-6400</a></strong></p>
+								<p><strong>Phone (Australia)</strong>: <a href="tel:+61256323092">+61 (2) 5632-3092</a></p>
+								<p><strong>Phone (United States)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a></p>
+								<p><strong>Phone (New Zealand)</strong>: <a href="tel:+6498708886">+64 (9) 870-8886</a></p>
+								<p><strong>Phone (United Kingdom)</strong>: <a href="tel:+442080899548">+44 2080 899 548</a></p>
+								<p><strong>Direct Line (Australia)</strong>: <a href="tel:+61256546400">+61 (2) 5654-6400</a></p>
 								<p><strong>EMAIL</strong>: <a href="mailto:media@lochstudios.com">media@lochstudios.com</a></p>
-								<p><strong>FAX</strong>: (02) 5632-3095</p>
+								<p><strong>FAX (Australia)</strong>: <a href="fax:+61256323095">+61 (2) 5632-3095</a></p>
+								<p><strong>FAX (United States)</strong>: <a href="fax:+13159096136">+1 (315) 909-6136</a></p>
+								<p><strong>TEXT MSG/WhatsApp</strong>: <a href="https://wa.me/61480001064">+614-8000-1064</a></p>
 							</div>
 						</div>
 					</div>
 				</div>
-				
 				<div class="has-text-centered">
 					<div class="notification is-primary is-light">
 						<p><strong>Find Us On Google</strong>: <a href="https://g.page/lochstudios" target="_blank">g.page/lochstudios</a></p>
@@ -235,7 +235,6 @@
 				</div>
 			</div>
 		</section>
-
 		<!-- Footer -->
 		<footer class="footer has-background-dark has-text-white">
 			<div class="container">
@@ -248,7 +247,6 @@
 				</div>
 			</div>
 		</footer>
-
 		<!-- Scripts -->
 		<script>
 			// Mobile navbar burger toggle
@@ -266,6 +264,5 @@
 				}
 			});
 		</script>
-
 	</body>
 </html>
