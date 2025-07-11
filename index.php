@@ -202,7 +202,7 @@
 							<h4 class="title is-4">Address</h4>
 							<div class="content">
 								<p><strong>Mail Contact</strong>: PO Box 219, South Grafton, New South Wales, 2460, Australia.</p>
-								<p><strong>On Location</strong>: Level 5, 115 Pitt Street, Sydney, NSW, 2000, Australia.</p>
+								<p><strong>Head Office</strong>: Level 5, 115 Pitt Street, Sydney, NSW, 2000, Australia.</p>
 							</div>
 						</div>
 					</div>
