@@ -42,7 +42,6 @@
 				</div>
 			</div>
 		</nav>
-
 		<!-- Hero Section -->
 		<section class="hero is-primary is-medium">
 			<div class="hero-body">
@@ -69,7 +68,6 @@
 				</div>
 			</div>
 		</section>
-
 		<!-- What We Do Section -->
 		<section id="info" class="section">
 			<div class="container">
@@ -79,7 +77,6 @@
 				</div>
 			</div>
 		</section>
-
 		<!-- Services Section -->
 		<section id="services" class="section has-background-primary">
 			<div class="container">
@@ -89,8 +86,10 @@
 				</div>
 				<div class="columns is-multiline">
 					<div class="column is-half">
-						<div class="box">
-							<div class="media">
+						<div class="box" style="position: relative;">
+							<span class="tag is-info" style="position: absolute; top: 0.5rem; right: 0.5rem;">Video</span>
+							<span class="tag is-warning" style="position: absolute; top: 0.5rem; right: 4rem;">Photo</span>
+							<div class="media is-align-items-center">
 								<div class="media-left">
 									<span class="icon is-large has-text-primary">
 										<i class="fas fa-heart fa-2x"></i>
@@ -103,8 +102,10 @@
 						</div>
 					</div>
 					<div class="column is-half">
-						<div class="box">
-							<div class="media">
+						<div class="box" style="position: relative;">
+							<span class="tag is-info" style="position: absolute; top: 0.5rem; right: 0.5rem;">Video</span>
+							<span class="tag is-warning" style="position: absolute; top: 0.5rem; right: 4rem;">Photo</span>
+							<div class="media is-align-items-center">
 								<div class="media-left">
 									<span class="icon is-large has-text-primary">
 										<i class="fas fa-birthday-cake fa-2x"></i>
@@ -117,8 +118,10 @@
 						</div>
 					</div>
 					<div class="column is-half">
-						<div class="box">
-							<div class="media">
+						<div class="box" style="position: relative;">
+							<span class="tag is-info" style="position: absolute; top: 0.5rem; right: 0.5rem;">Video</span>
+							<span class="tag is-warning" style="position: absolute; top: 0.5rem; right: 4rem;">Photo</span>
+							<div class="media is-align-items-center">
 								<div class="media-left">
 									<span class="icon is-large has-text-primary">
 										<i class="fas fa-ring fa-2x"></i>
@@ -131,8 +134,9 @@
 						</div>
 					</div>
 					<div class="column is-half">
-						<div class="box">
-							<div class="media">
+						<div class="box" style="position: relative;">
+							<span class="tag is-info" style="position: absolute; top: 0.5rem; right: 0.5rem;">Video</span>
+							<div class="media is-align-items-center">
 								<div class="media-left">
 									<span class="icon is-large has-text-primary">
 										<i class="fas fa-video fa-2x"></i>
@@ -145,8 +149,10 @@
 						</div>
 					</div>
 					<div class="column is-half">
-						<div class="box">
-							<div class="media">
+						<div class="box" style="position: relative;">
+							<span class="tag is-info" style="position: absolute; top: 0.5rem; right: 0.5rem;">Video</span>
+							<span class="tag is-warning" style="position: absolute; top: 0.5rem; right: 4rem;">Photo</span>
+							<div class="media is-align-items-center">
 								<div class="media-left">
 									<span class="icon is-large has-text-primary">
 										<i class="fas fa-calendar-alt fa-2x"></i>
@@ -159,8 +165,9 @@
 						</div>
 					</div>
 					<div class="column is-half">
-						<div class="box">
-							<div class="media">
+						<div class="box" style="position: relative;">
+							<span class="tag is-warning" style="position: absolute; top: 0.5rem; right: 0.5rem;">Photo</span>
+							<div class="media is-align-items-center">
 								<div class="media-left">
 									<span class="icon is-large has-text-primary">
 										<i class="fas fa-camera fa-2x"></i>
