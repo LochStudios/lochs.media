@@ -223,15 +223,21 @@
 							<span class="tag is-success is-medium" style="position: absolute; top: 0.5rem; right: 0.5rem;"><i class="fas fa-phone mr-1"></i> Anytime Service</span>
 							<h4 class="title is-4">Phone & Email</h4>
 							<div class="content">
-								<p><strong>Phone (Australia)</strong>: <a href="tel:+61256323092">+61 (2) 5632-3092</a></p>
-								<p><strong>Phone (United States)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a></p>
-								<p><strong>Phone (New Zealand)</strong>: <a href="tel:+6498708886">+64 (9) 870-8886</a></p>
-								<p><strong>Phone (United Kingdom)</strong>: <a href="tel:+442080899548">+44 2080 899 548</a></p>
-								<p><strong>Direct Line (Australia)</strong>: <a href="tel:+61256546400">+61 (2) 5654-6400</a></p>
-								<p><strong>EMAIL</strong>: <a href="mailto:media@lochstudios.com">media@lochstudios.com</a></p>
-								<p><strong>FAX (Australia)</strong>: <a href="fax:+61256323095">+61 (2) 5632-3095</a></p>
-								<p><strong>FAX (United States)</strong>: <a href="fax:+13159096136">+1 (315) 909-6136</a></p>
-								<p><strong>TEXT MSG/WhatsApp</strong>: <a href="https://wa.me/61480001064">+614-8000-1064</a></p>
+								<div class="box has-background-dark has-text-white mb-4">
+									<h5 class="title is-6 has-text-white mb-3"><span class="icon"><i class="fas fa-phone"></i></span> Anytime Service</h5>
+									<p><strong>Phone (Australia)</strong>: <a href="tel:+61256323092" class="has-text-white">+61 (2) 5632-3092</a></p>
+									<p><strong>Phone (United States)</strong>: <a href="tel:+13158796488" class="has-text-white">+1 (315) 879-6488</a></p>
+									<p><strong>Phone (New Zealand)</strong>: <a href="tel:+6498708886" class="has-text-white">+64 (9) 870-8886</a></p>
+									<p><strong>Phone (United Kingdom)</strong>: <a href="tel:+442080899548" class="has-text-white">+44 2080 899 548</a></p>
+									<p><strong>Direct Line (Australia)</strong>: <a href="tel:+61256546400" class="has-text-white">+61 (2) 5654-6400</a></p>
+								</div>
+								<div class="box has-background-grey-dark has-text-white">
+									<h5 class="title is-6 has-text-white mb-3"><span class="icon"><i class="fas fa-building"></i></span> Office Hours (Monday-Friday: 08:30-17:30)</h5>
+									<p><strong>EMAIL</strong>: <a href="mailto:media@lochstudios.com" class="has-text-white">media@lochstudios.com</a></p>
+									<p><strong>FAX (Australia)</strong>: <a href="fax:+61256323095" class="has-text-white">+61 (2) 5632-3095</a></p>
+									<p><strong>FAX (United States)</strong>: <a href="fax:+13159096136" class="has-text-white">+1 (315) 909-6136</a></p>
+									<p><strong>TEXT MSG/WhatsApp</strong>: <a href="https://wa.me/61480001064" class="has-text-white">+614-8000-1064</a></p>
+								</div>
 							</div>
 						</div>
 					</div>
