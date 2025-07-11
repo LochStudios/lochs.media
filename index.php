@@ -96,7 +96,7 @@
 									</span>
 								</div>
 								<div class="media-content">
-									<p class="title is-5">Full Weddings (Video & Photos)</p>
+									<p class="title is-5">Full Weddings</p>
 								</div>
 							</div>
 						</div>
@@ -112,7 +112,7 @@
 									</span>
 								</div>
 								<div class="media-content">
-									<p class="title is-5">Birthdays (Video & Photos)</p>
+									<p class="title is-5">Birthdays</p>
 								</div>
 							</div>
 						</div>
@@ -128,7 +128,7 @@
 									</span>
 								</div>
 								<div class="media-content">
-									<p class="title is-5">Engagements (Video & Photos)</p>
+									<p class="title is-5">Engagements</p>
 								</div>
 							</div>
 						</div>
@@ -159,7 +159,7 @@
 									</span>
 								</div>
 								<div class="media-content">
-									<p class="title is-5">Special Events (Video & Photos)</p>
+									<p class="title is-5">Special Events</p>
 								</div>
 							</div>
 						</div>
