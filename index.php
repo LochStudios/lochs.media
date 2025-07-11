@@ -199,7 +199,7 @@
 			<div class="container">
 				<div class="columns is-centered">
 					<div class="column is-four-fifths">
-						<div class="box" style="position: relative;">
+						<div class="box" style="position: relative; box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);">
 							<h3 class="title is-3 has-text-centered mb-3">
 								<span class="icon"><i class="fas fa-address-book"></i></span> Contact Us
 							</h3>
