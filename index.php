@@ -69,11 +69,11 @@
 			</div>
 		</section>
 		<!-- What We Do Section -->
-		<section id="info" class="section">
+		<section id="info" class="section py-5">
 			<div class="container">
-				<div class="has-text-centered mb-6">
+				<div class="has-text-centered is-flex is-flex-direction-column is-align-items-center">
 					<h2 class="title is-2">What do we do for you?</h2>
-					<p class="subtitle is-4">Professional media production while providing the highest level of quality to EVERYONE!</p>
+					<p class="subtitle is-4">Delivering premium media production with uncompromising quality that exceeds expectations and industry standards.</p>
 				</div>
 			</div>
 		</section>
